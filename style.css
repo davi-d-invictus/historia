@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&family=Eagle+Lake&display=swap');
+
+:root {
+    --azul: #003049ff;
+    --vermelho: #d62828ff;
+    --laranja: #f77f00ff;
+    --amarelo: #fcbf49ff;
+    --titulo: "Eagle Lake", serif;
+    --texto:  "Almendra", serif;
+
+}
